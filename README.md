@@ -18,6 +18,7 @@ The dashboard includes:
 
 ## 📁 File
 - `Customer-Sales-Dashboard.pbix` – The main Power BI report file.
+- Screenshot (https://github.com/RaghadAnalyzes/Customer-Sales-Dashboard/blob/main/Screenshot%20Sales%20Projact.png)
 
 ## 👤 Author
 **Raghad Alghamdi**  
